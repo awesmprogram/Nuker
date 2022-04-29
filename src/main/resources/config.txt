@@ -1,0 +1,4 @@
+token=
+channelnames=Bozo
+rolenames=Bozo
+message=@everyone Bozo
