@@ -43,7 +43,7 @@ public class EventListen extends ListenerAdapter {
             try {
                 guild.ban(member, 0);
                 System.out.println("Person was banned!");
-                Thread.sleep(30);
+                Thread.sleep(500);
             } catch (Exception e) {
                 System.out.println("Person was higher then the bot, skipping...");
             }
